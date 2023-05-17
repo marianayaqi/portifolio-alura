@@ -30,10 +30,6 @@ body {
     text-decoration: none;
 }
 
-.perfil {
-    border-radius: 15%;
-}
-
 .apresentacao {
     padding: 5% 15%;
     display: flex;
@@ -96,6 +92,10 @@ body {
 }
 
 .imagem {
+    border-radius: 15%;
+}
+
+.perfil {
     border-radius: 15%;
 }
 
