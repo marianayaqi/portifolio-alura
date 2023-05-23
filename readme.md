@@ -1,7 +1,7 @@
 # <div align="center">
 <a href="https://marianayaqi.github.io/landingpageonebitcode/">
 <div align="center">
-  <img src="./logo.alura.png" width= "300">
+  <img src="./assets/logo.alura.png">
   </div>
 </a>
 </div>
