@@ -29,7 +29,7 @@ Criado junto ao time da  Alura 👩‍💻</p>
 <h2 align="center">Versão desktop<h2>
 <br>
 <p align="center">
-  <img alt="License" src="./">
+  <img alt="License" src="./assets/captura.projeto.png">
 </p>
 
 
