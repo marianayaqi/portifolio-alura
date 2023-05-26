@@ -37,11 +37,11 @@ Criado junto ao time da  Alura 👩‍💻</p>
 
 ## 💻 Projeto
 <p align="center">
-<a target="_blank" href="https://marianayaqi.github.io/portifolio-alura/">Clique aqui</a> para conferir o resultado final.
+<a  href="https://marianayaqi.github.io/portifolio-alura/" target="_blank">Clique aqui</a> para conferir o resultado final.
 
 <br>
 <h3>
-  🕹️ Este projeto foi desenvolvido por Guilherme e Rafaela Balerine, do canal <a target="_blank" href="https://www.youtube.com/@Alura">"Canal Alura".</a>
+  🕹️ Este projeto foi desenvolvido por Guilherme e Rafaela Balerine, do canal <a  href="https://www.youtube.com/@Alura" target="_blank">"Canal Alura".</a>
   <br>
 
  
