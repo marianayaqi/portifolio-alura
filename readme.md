@@ -37,7 +37,7 @@ Criado junto ao time da  Alura 👩‍💻</p>
 
 ## 💻 Projeto
 <p align="center">
-<a target="_blank" href="http://127.0.0.1:5500/index.html">Clique aqui</a> para conferir o resultado final.
+<a target="_blank" href="https://marianayaqi.github.io/portifolio-alura/">Clique aqui</a> para conferir o resultado final.
 
 <br>
 <h3>
