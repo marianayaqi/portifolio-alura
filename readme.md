@@ -1,5 +1,5 @@
 # <div align="center">
-<a href="https://marianayaqi.github.io/landingpageonebitcode/">
+<a href="ttps://marianayaqi.github.io/portifolio-alura/">
 <div align="center">
   <img src="./assets/logo.alura.png">
   </div>
